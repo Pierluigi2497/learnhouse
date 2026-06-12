@@ -4111,7 +4111,7 @@
     },
     "not_configured": {
       "title": "Analitik yapılandırılmadı",
-      "description": "Analitik bir Tinybird bağlantısı gerektirir. Etkinleştirmek için <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> ve <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> ortam değişkenlerini ayarlayın."
+      "description": "Analitik bir Tinybird bağlantısı gerektirir. Bu ayarı nasıl yapacağınız konusunda bilgi almak için lütfen yöneticinizle iletişime geçin veya belgelere bakın."
     },
     "advanced_gate": {
       "requires": "Gerektirir",

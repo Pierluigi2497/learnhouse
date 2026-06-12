@@ -4096,7 +4096,7 @@
     },
     "not_configured": {
       "title": "分析が構成されていません",
-      "description": "分析にはTinybird接続が必要です。有効にするには、<code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code>および<code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code>環境変数を設定してください。"
+      "description": "分析にはTinybird接続が必要です。設定方法については、管理者にお問い合わせいただくか、ドキュメントをお読みください。"
     },
     "advanced_gate": {
       "requires": "必要",

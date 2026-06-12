@@ -4162,7 +4162,7 @@
     },
     "not_configured": {
       "title": "Analisi non configurata",
-      "description": "L'analisi richiede una connessione a Tinybird. Imposta le variabili d'ambiente <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> e <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> per abilitarla."
+      "description": "L'analisi richiede una connessione a Tinybird. Contatta l'amministratore o leggi la documentazione per la configutazione"
     },
     "advanced_gate": {
       "requires": "Richiede",

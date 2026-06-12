@@ -4098,7 +4098,7 @@
     },
     "not_configured": {
       "title": "分析未配置",
-      "description": "分析功能需要 Tinybird 连接。请设置 <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> 和 <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> 环境变量以启用此功能。"
+      "description": "分析功能需要 Tinybird 连接。请联系您的管理员或查阅相关文档，以获取设置说明。"
     },
     "advanced_gate": {
       "requires": "需要",

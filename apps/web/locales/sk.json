@@ -4440,7 +4440,7 @@
     },
     "not_configured": {
       "title": "Analytika nie je nakonfigurovaná",
-      "description": "Analytika vyžaduje pripojenie Tinybird. Nastavte premenné prostredia LEARNHOUSE_TINYBIRD_INGEST_TOKEN a LEARNHOUSE_TINYBIRD_READ_TOKEN pre jej zapnutie."
+      "description": "Analytika vyžaduje pripojenie Tinybird. Pokyny na nastavenie nájdete v dokumentácii alebo kontaktujte svojho správcu."
     },
     "advanced_gate": {
       "requires": "Vyžaduje",

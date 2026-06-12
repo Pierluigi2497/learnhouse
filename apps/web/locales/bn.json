@@ -4109,7 +4109,7 @@
     },
     "not_configured": {
       "title": "বিশ্লেষণ কনফিগার করা হয়নি",
-      "description": "বিশ্লেষণের জন্য Tinybird সংযোগ প্রয়োজন। এটি সক্ষম করতে <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> এবং <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> এনভায়রনমেন্ট ভেরিয়েবল সেট করুন।"
+      "description": "বিশ্লেষণের জন্য Tinybird সংযোগ প্রয়োজন। সেটআপের জন্য আপনার অ্যাডমিনিস্ট্রেটরের সাথে যোগাযোগ করুন অথবা ডকুমেন্টেশন পড়ুন।"
     },
     "advanced_gate": {
       "requires": "প্রয়োজন",

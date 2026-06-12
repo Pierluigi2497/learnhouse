@@ -4162,7 +4162,7 @@
     },
     "not_configured": {
       "title": "Analytique non configurée",
-      "description": "L'analytique nécessite une connexion Tinybird. Définissez les variables d'environnement <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> et <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> pour l'activer."
+      "description": "L'analytique nécessite une connexion Tinybird. Contactez votre administrateur ou consultez la documentation d'installation."
     },
     "advanced_gate": {
       "requires": "Nécessite",

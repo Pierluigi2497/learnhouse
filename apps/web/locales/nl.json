@@ -4164,7 +4164,7 @@
     },
     "not_configured": {
       "title": "Analytics niet geconfigureerd",
-      "description": "Analytics vereist een Tinybird-verbinding. Stel de omgevingsvariabelen <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> en <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> in om dit te activeren."
+      "description": "Analytics vereist een Tinybird-verbinding. Neem contact op met uw beheerder of raadpleeg de documentatie voor instructies over het instellen hiervan."
     },
     "advanced_gate": {
       "requires": "Vereist",

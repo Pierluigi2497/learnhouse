@@ -4187,7 +4187,7 @@
     },
     "not_configured": {
       "title": "Analityka nie jest skonfigurowana",
-      "description": "Analityka wymaga połączenia z Tinybird. Aby ją włączyć, ustaw zmienne środowiskowe <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> oraz <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code>."
+      "description": "Analityka wymaga połączenia z Tinybird. Aby uzyskać instrukcje dotyczące konfiguracji, skontaktuj się z administratorem lub zapoznaj się z dokumentacją."
     },
     "advanced_gate": {
       "requires": "Wymaga",

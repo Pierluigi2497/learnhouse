@@ -4109,7 +4109,7 @@
     },
     "not_configured": {
       "title": "Analytics कॉन्फ़िगर नहीं किया गया",
-      "description": "Analytics के लिए Tinybird कनेक्शन की आवश्यकता है। इसे सक्षम करने के लिए <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> और <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> एनवायरनमेंट वेरिएबल सेट करें।"
+      "description": "Analytics के लिए Tinybird कनेक्शन की आवश्यकता है। सेटअप के लिए अपने एडमिनिस्ट्रेटर से संपर्क करें या डॉक्यूमेंटेशन पढ़ें।"
     },
     "advanced_gate": {
       "requires": "आवश्यक",

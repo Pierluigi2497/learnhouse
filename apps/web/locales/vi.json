@@ -4111,7 +4111,7 @@
     },
     "not_configured": {
       "title": "Chưa cấu hình phân tích",
-      "description": "Phân tích yêu cầu kết nối Tinybird. Đặt các biến môi trường <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> và <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> để bật."
+      "description": "Phân tích yêu cầu kết nối Tinybird. Vui lòng liên hệ với quản trị viên của bạn hoặc tham khảo tài liệu hướng dẫn để biết cách thiết lập."
     },
     "advanced_gate": {
       "requires": "Yêu cầu",

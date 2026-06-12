@@ -4111,7 +4111,7 @@
     },
     "not_configured": {
       "title": "ยังไม่ได้กำหนดค่าการวิเคราะห์",
-      "description": "การวิเคราะห์ต้องการการเชื่อมต่อ Tinybird ตั้งค่าตัวแปรสภาพแวดล้อม <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> และ <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> เพื่อเปิดใช้งาน"
+      "description": "การวิเคราะห์ต้องการการเชื่อมต่อ Tinybird ตั้งค่าตัวแปรสภาพแวดล้อม โปรดติดต่อผู้ดูแลระบบหรือศึกษาเอกสารประกอบเพื่อดูคำแนะนำเกี่ยวกับวิธีการตั้งค่านี้"
     },
     "advanced_gate": {
       "requires": "ต้องการ",

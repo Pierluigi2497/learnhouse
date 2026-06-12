@@ -4187,7 +4187,7 @@
     },
     "not_configured": {
       "title": "Аналитика не настроена",
-      "description": "Для аналитики требуется подключение к Tinybird. Чтобы её включить, задайте переменные окружения <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> и <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code>."
+      "description": "Для аналитики требуется подключение к Tinybird. Пожалуйста, свяжитесь со своим администратором или ознакомьтесь с документацией для получения инструкций по настройке."
     },
     "advanced_gate": {
       "requires": "Требуется",

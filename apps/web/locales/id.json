@@ -4109,7 +4109,7 @@
     },
     "not_configured": {
       "title": "Analitik belum dikonfigurasi",
-      "description": "Analitik memerlukan koneksi Tinybird. Setel variabel lingkungan <code>LEARNHOUSE_TINYBIRD_INGEST_TOKEN</code> dan <code>LEARNHOUSE_TINYBIRD_READ_TOKEN</code> untuk mengaktifkannya."
+      "description": "Analitik memerlukan koneksi Tinybird. Hubungi administrator Anda atau baca dokumentasi untuk pengaturan."
     },
     "advanced_gate": {
       "requires": "Memerlukan",
